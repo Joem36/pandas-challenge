@@ -1,5 +1,6 @@
 # pandas-challenge
-￼
+￼#THE "SUMMARY_SCHOOL-DATA.RTFD" PHOTOS ARE IN REFERENCE TO THE TEXT BELOW.  THIS PERTAINS TO THE ASSIGNEMENT INTRUCTIONS FOR A SUMMARY OF THE DATA 
+THE SUMMARY FROM BOOTCAMP SPOT- "SUMMARIZE THE ANALYSIS.  DRAWS TWO CORRECT CONCLUSIONS OR COMPARISONS FROM THE CALCULATIONS."
 
 I was able to calculate the averages for the columns of scores across the desired data frame and are able to  see the budget associated with the average scores, percentage passing across math and reading and percentage passing overall.  We are able to see the spending more Average Math Score decreased with the amount spent per student budget.  The same context can be read across this specific data frame for the other averages.
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
